@@ -9,6 +9,17 @@ As a data scientist from a big multi-category online store. A team has been requ
 ![e-commerce](https://www.nextre.it/wp-content/uploads/2020/09/E-commerce-web-development.png)
 ____
 
+## Before starting
+Among all numerous things and good practises a data scientist needs to do before running any analysis, there is one the is of uttermost importance: __get data and understand it__! 
+
+
+Here you find the list of tasks you need to perform before digging into the world of e-commerce.
+
+* __Get your data!__ Go to [this website](https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store?select=2019-Oct.csv) and download the files **2019-Oct** and **2019-Nov**.
+* __Understand your data.__ Read the legend of each column to understand what it refers to. Additional information about the labels can be found in the description of the data section on the web page. Please, be sure that you've understood the data before start coding.
+* __Handling data.__ The data are provided in two `.csv` files, with the same columns present in both files. For this reason, in order to answer the RQs, we kindly suggest you to import the `.csv` files as `pandas DataFrame` object and then, based on what you want to analyze, perform the necessary operations. 
+
+____
 
 # Research questions
 
